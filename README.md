@@ -7,7 +7,7 @@ This repo contains a simple "choose your own adventure" style Python story. You 
 ## Your Task
 
 You will:
-1. Create two new branches: `hero-path` and `villain-path`
+1. Create two new branches: `hero-path`(local) and `villain-path`(ec2)
 2. Make different story twists in each branch
 3. Commit and push all changes to GitHub
 4. Write a short summary of each branch here
@@ -15,7 +15,7 @@ You will:
 ## Branch Summaries
 
 - `main`: Original story starter
-- `hero-path`: _[Describe your changes here]_
+- `hero-path`: On the left path, the player picks up the sword and defeats the dragon
 - `villain-path`: _[Describe your changes here]_
 
 ## Final Checklist
@@ -23,4 +23,4 @@ You will:
 - [ ] At least 3 branches (`main`, `hero-path`, `villain-path`)
 - [ ] Each branch has its own unique story version
 - [ ] At least 2 commits per branch
-- [ ] Changes are pushed to GitHub from EC2 or local
+- [ ] Changes are pushed to GitHub from EC2 and local
