@@ -16,7 +16,7 @@ You will:
 
 - `main`: Original story starter
 - `hero-path`: _[Describe your changes here]_
-- `villain-path`: _[Describe your changes here]_
+- `villain-path`: The user encounters an evil wizard and joins forces with him
 
 ## Final Checklist
 
