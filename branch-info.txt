@@ -10,10 +10,20 @@ Branches in this repo (with details):
     a19db9b | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T16:52:05Z | Auto-update branch-info.txt
     8e1707c | Author: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-16T12:51:52-04:00 | Initial commit
 - main
-  SHA: 472f0cc6e4ccbb6397e8d500d8234971632fabff
-  Commits: 4
+  SHA: cc1bb195031a2f6101644ed6730351ab377c55a6
+  Commits: 5
   Recent commits:
+    cc1bb19 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T17:50:34Z | Auto-update branch-info.txt
     472f0cc | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T17:48:53Z | Auto-update branch-info.txt
     0af028d | Author: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Committer: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Date: 2025-09-16T13:42:51-04:00 | Added a center path.
     a19db9b | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T16:52:05Z | Auto-update branch-info.txt
     8e1707c | Author: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-16T12:51:52-04:00 | Initial commit
+- villain-path
+  SHA: 4e3cb03acf546133a51974595b0fbff72e4bb657
+  Commits: 8
+  Recent commits:
+    4e3cb03 | Author: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Committer: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Date: 2025-09-16T17:58:28Z | Summarized the villian path
+    5199877 | Author: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Committer: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Date: 2025-09-16T17:57:07Z | Add a print statement to the right path
+    cc0a212 | Author: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Committer: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Date: 2025-09-16T17:56:13Z | Changed a print statement in the right path
+    cc1bb19 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T17:50:34Z | Auto-update branch-info.txt
+    472f0cc | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T17:48:53Z | Auto-update branch-info.txt
