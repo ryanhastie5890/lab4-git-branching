@@ -15,6 +15,7 @@ def left_path():
 
 def right_path():
     print("You find an evil wizard who asks you to help him")
+    print("You decide to join forces with the wizard")
     
 
 def center_path():
